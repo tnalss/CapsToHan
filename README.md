@@ -6,7 +6,7 @@ Capslock 키를 한/영키로 전환하는 레지스트리 추가/제거 프로�
 맥 사용자의 경우 Capslock을 한/영 키로 사용하기 때문에  
 윈도우 환경 사용시 Capslock을 눌렀다가 한/영을 눌렀다가 아주 난리가 남.  
 
-Capslock키를 한/영키로 바꾸는 방법 중
+Capslock키를 한/영키로 바꾸는 방법 중  
 HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Keyboard Layout  
 경로에 Scancode Map 이진 레지스트리를 추가/삭제하는 방법을 적용하는 방법이 있음.
 

@@ -1,5 +1,5 @@
 # CapsToHan
-Capslock 키를 한/영키로 전환하는 레지스트리 추가/제거 프로그램
+Capslock 키를 한/영키로 전환하는 레지스트리 추가/제거 프로그램  
 블로그 - https://blog.naver.com/indoubt/222907655178
 
 ## 만든계기
